@@ -53,7 +53,7 @@ class Saianshi:
 
 <table>
 <tr>
-<td align="center" width="25%"><h1>🥇</h1><b>Avinya 2026</b><br><sub>IIT Guwahati<br>Top 5 in Round 1, made it to the 36 hr finale</sub></td>
+<td align="center" width="25%"><h1>🥇</h1><b>Avinya 2026</b><br><sub>IIT Guwahati<br>Winner of Round 1, made it to the 36 hr finale</sub></td>
 <td align="center" width="25%"><h1>🏅</h1><b>FUGACITY ML</b><br><sub>IIT Kharagpur<br>Finalist, Rank 14</sub></td>
 <td align="center" width="25%"><h1>📖</h1><b>Published Author</b><br><sub>Notion Press<br>On Amazon India</sub></td>
 <td align="center" width="25%"><h1>🎖️</h1><b>NCC Cadet</b><br><sub>Contingent Parade Commander<br>Mahatma Gandhi Marg</sub></td>
